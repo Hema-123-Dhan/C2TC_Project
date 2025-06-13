@@ -24,3 +24,4 @@ public class CharDemo {
 		System.out.println(a);
 	}
 }
+ 
